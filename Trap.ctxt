@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Trap
+comment0.text=\r\n\ The\ Trap\ class\ should\ remove\ the\ first\ five\ spiders\ that\r\n\ touch\ it,\ and\ then\ remove\ itself\ from\ the\ World.\r\n\ \r\n\ @author\ Tran\ Nguyen\r\n\ @version\ 1.80305\r\n
+comment1.params=
+comment1.target=Trap()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Trap.\r\n\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Trap\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3
