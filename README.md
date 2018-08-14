@@ -9,7 +9,7 @@ Programming project #1 for Computer Science I
 
 • working in an object-oriented environment
 
-• designing and coding your own methods
+• designing and coding my own methods
 
 • utilizing selective execution
 
